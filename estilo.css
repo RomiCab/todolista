@@ -1,0 +1,15 @@
+
+heder {background-image: }
+body {
+   background-image: url(https://img.freepik.com/foto-gratis/fondo-cielo-rosa-luna-creciente_53876-129048.jpg?w=2000);
+    margin: 10;
+    padding: 50;
+}
+img {
+    width: 800px;
+    text-align: center;
+}
+header nav ul li {
+    display: inline;
+
+}
